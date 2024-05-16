@@ -1,12 +1,9 @@
 # Web-Developer
 
 ### Education
-- **Web-Development and Internet Applications, Diploma**
-  - Fanshawe College
-  - Location: London, Ontario
-
-
-
+**Diploma in Web Development and Internet Applications**
+- **Institution:** Fanshawe College
+- **Location:** London, Ontario
 
 ### Projects
 
