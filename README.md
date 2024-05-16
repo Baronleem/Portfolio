@@ -8,6 +8,7 @@
 - **Web-Development and Internet Applications, Diploma**
   - Fanshawe College
   - Location: London, Ontario
+  - Duration: January 2022 – Present
  
 ### Projects
 
