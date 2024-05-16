@@ -1,4 +1,5 @@
-# Web-Developer
+# Hello I'm Liam
+# Programmer, Web-Developer
 ### Technical Skills
 - **Languages:** Java, C, JavaScript, SQL, HTML, CSS
 - **Tools:** Office 365, Visual Studio, SQL Server, Management Studio, Microsoft Azure
