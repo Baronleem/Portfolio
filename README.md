@@ -1,5 +1,6 @@
 # Programmer, Web-Developer
-#### Technical Skills: Java, C, JavaScript, SQL, HTML, CSS
+## Technical Skills
+- **Languages:Java, C, JavaScript, SQL, HTML, CSS
 - **Tools:** Office 365, Visual Studio, SQL Server, Management Studio, Microsoft Azure
 - **Operating Systems:** Windows, Android, iOS, Linux
   
